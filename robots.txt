@@ -1,4 +1,6 @@
 User-Agent: *
 Disallow:
 
-Sitemap: https://efeveste.github.io/sitemap.txt
+Sitemap: https://efeveste.github.io/es/sitemap.txt
+Sitemap: https://efeveste.github.io/fr/sitemap.txt
+Sitemap: https://efeveste.github.io/pl/sitemap.txt
